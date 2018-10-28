@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Web Page Finder</string>
+    <string name="error_invalid_url">Invalid url [http://example.com]</string>
+    <string name="error_invalid_search_query">Invalid search query</string>
+    <string name="error_invalid_thread_amount">Invalid thread amount [1..20]</string>
+    <string name="error_invalid_limit">Invalid limit [1..1000]</string>
+    <string name="hint_input_url">Input url</string>
+    <string name="hint_input_search_word">Input search word</string>
+    <string name="hint_input_url_amount">Input url amount</string>
+    <string name="hint_input_thread_amount">Input thread amount</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_start">Start</string>
+</resources>
